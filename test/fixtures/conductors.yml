@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  conductor_fname: MyString
+  conductor_lname: MyString
+  conductor_phone: MyString
+  conductor_email: MyString
+
+two:
+  conductor_fname: MyString
+  conductor_lname: MyString
+  conductor_phone: MyString
+  conductor_email: MyString

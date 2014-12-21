@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  band_name: MyString
+  band_type: MyString
+  band_contact_info: MyString
+
+two:
+  band_name: MyString
+  band_type: MyString
+  band_contact_info: MyString
